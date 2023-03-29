@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @awanaprilino
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning laravel and nodejs
+- 👀 Keep learning
 
 wish me luck
 
